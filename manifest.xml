@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-<remote name="phh" fetch="https://github.com/phhusson/" />
+<remote name="phh" fetch="https://github.com/perryes/" />
 
 <project path="vendor/hardware_overlay" name="vendor_hardware_overlay" remote="phh" revision="pie" />
 <project path="device/phh/treble" name="device_phh_treble" remote="phh" revision="android-9.0" />
